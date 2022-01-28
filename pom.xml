@@ -9,7 +9,6 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	
 	<groupId>br.com.alura</groupId>
 	<artifactId>leilao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
